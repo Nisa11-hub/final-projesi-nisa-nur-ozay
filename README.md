@@ -35,10 +35,10 @@ Programı derleyip çalıştırdığınızda konsol sizden bir metin isteyecekti
 
 ## Örnek Ekran Görüntüleri
 *(Proje klasöründeki ekran görüntüleri incelenebilir)*
-* 'gemma-hata-ekrani.png' : Küçük modelin Türkçe yetersizliğini gösteren test ekranı.
-* 'llama-indirme.png' : Modelin Ollama üzerinden indirilme aşaması.
-* 'kod-arayuzu.png' : Projenin temel Java yapısı.
-* 'final-test-sonucu.png' : İki modelin aynı metin üzerindeki hız ve çıktı performansı karşılaştırılması.
+* `gemma-hata-ekrani.png` : Küçük modelin Türkçe yetersizliğini gösteren test ekranı.
+* `llama-indirme.png` : Modelin Ollama üzerinden indirilme aşaması.
+* `kod-arayuzu.png` : Projenin temel Java yapısı.
+* `final-test-sonucu.png` : İki modelin aynı metin üzerindeki hız ve çıktı performansı karşılaştırılması.
   
 ## Test Sonuçları
 Geleneksel Transformer ve State Space Modelleri (SSM) ile ilgili karmaşık bir akademik cümle teste tabi tutulmuştur.
@@ -54,4 +54,4 @@ Geleneksel Transformer ve State Space Modelleri (SSM) ile ilgili karmaşık bir 
 Sisteme **RAG (Retrieval-Augmented Generation)** mimarisi entegre edilebilir. Yerel bir vektör veritabanına sadece Türkçe akademik makaleler yüklenerek modellerin bu veritabanından bağlam çekmesi sağlanabilir. Böylece halüsinasyon oranı düşürülüp Türkçe çıktı kalitesi artırılabilir.
 
 ## Yapay Zekâ Araçlarının Kullanımı
-Bu projedeki kodların yazım sürecinde değil; 'Scanner' ile UTF-8 uyumsuzluklarının giderilmesi, HTTP isteklerindeki JSON ayrıştırma hatalarının çözümü ve modeller arası milisaniye cinsinden performans analizlerinin raporlanması gibi teknik sorunların giderilmesinde yapay zeka araçlarından asistan olarak faydalanılmıştır.
+Bu projedeki kodların yazım sürecinde değil; `Scanner` ile UTF-8 uyumsuzluklarının giderilmesi, HTTP isteklerindeki JSON ayrıştırma hatalarının çözümü ve modeller arası milisaniye cinsinden performans analizlerinin raporlanması gibi teknik sorunların giderilmesinde yapay zeka araçlarından asistan olarak faydalanılmıştır.
