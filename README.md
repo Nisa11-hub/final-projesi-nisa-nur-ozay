@@ -41,7 +41,7 @@ Programı derleyip çalıştırdığınızda konsol sizden bir metin isteyecekti
 * `final-test-sonucu.png` : İki modelin aynı metin üzerindeki hız ve çıktı performansı karşılaştırılması.
 
   ### Proje Tanıtım Videosu
-[Proje Tanıtım Videosunu İzlemek İçin Tıklayın](https://youtu.be/cOIOzDrhXn8)
+[Proje Tanıtım Videosunu İzlemek İçin Tıklayın](https://youtu.be/coIOzDrhXn8)
 
 ## Test Sonuçları
 Geleneksel Transformer ve State Space Modelleri (SSM) ile ilgili karmaşık bir akademik cümle teste tabi tutulmuştur.
