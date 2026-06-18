@@ -39,7 +39,10 @@ Programı derleyip çalıştırdığınızda konsol sizden bir metin isteyecekti
 * `llama-indirme.png` : Modelin Ollama üzerinden indirilme aşaması.
 * `kod-arayuzu.png` : Projenin temel Java yapısı.
 * `final-test-sonucu.png` : İki modelin aynı metin üzerindeki hız ve çıktı performansı karşılaştırılması.
-  
+
+  ### Proje Tanıtım Videosu
+[Proje Tanıtım Videosunu İzlemek İçin Tıklayın](https://youtu.be/cOIOzDrhXn8)
+
 ## Test Sonuçları
 Geleneksel Transformer ve State Space Modelleri (SSM) ile ilgili karmaşık bir akademik cümle teste tabi tutulmuştur.
 *   **Llama 3:** İşlemi ~28.506 ms (28.5 saniye) sürede tamamladı. Cümleyi anlamsal olarak çok daha iyi kavramış olsa da, karmaşıklığı çözmek için çıktıyı İngilizceye çevirme ("Let me break it down...") eğilimi göstermiştir.
